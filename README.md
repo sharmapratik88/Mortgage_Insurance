@@ -4,3 +4,5 @@ A consumer bank with a range of products would like to cross-sell insurance to i
 - The bank would like to adopt analytics driven approach applied on this sample data for deciding:
 	- Who should they target from the pool of customers that currently do not have a PPI, and
 	- What type of PPI product they should be targeting them with..
+	
+- Code file: [Jupyter Notebook](https://nbviewer.jupyter.org/github/sharmapratik88/Mortgage_Insurance/blob/main/Cross%20Sell%20PPI%20Product.ipynb)
